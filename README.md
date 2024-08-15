@@ -5,4 +5,5 @@ A shopping list app created by [SanjeevScript](https://github.com/SanjeevScript)
 ## Technology Used
 
 - **Dexie.js**: For handling IndexedDB operations.
+- Made with luv by SanjeevScript ヾ(≧▽≦*)o
 
