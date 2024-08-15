@@ -6,7 +6,5 @@ A shopping list app created by [SanjeevScript](https://github.com/SanjeevScript)
 
 - **Dexie.js**: For handling IndexedDB operations.
 
-
-
-        - Made with luv by SanjeevScript ヾ(≧▽≦*)o
+->  Made with luv by SanjeevScript ヾ(≧▽≦*)o
 
